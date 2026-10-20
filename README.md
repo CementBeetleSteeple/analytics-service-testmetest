@@ -1,2 +1,3 @@
 # analytics-service-testmetest
-Analytics and tracking service
+
+Analytics and user tracking microservice.
